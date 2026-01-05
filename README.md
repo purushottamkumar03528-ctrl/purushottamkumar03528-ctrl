@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student.<br>I'm currently learning java programming language.<br>I'm looking for internship or job as a fresher
+My name is Purushottam Kumar. I'm currently a student.<br>I'm currently learning java programming language.<br>I'm looking for internship or job as a fresher
 
 
 ## 🌐 Socials:
